@@ -1,0 +1,30 @@
+.font-size{
+    font-size: 16px !important;
+}
+.custom-container{
+    width: 1500px;
+    margin: auto;
+}
+*{
+    box-sizing: border-box !important;
+}
+body{
+    background:linear-gradient(rgba(73, 66, 66, 0.747),rgba(54, 49, 49, 0.822)), url(../images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+.zIndex{
+    z-index: 5;
+}
+
+.avatar_size {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  
+    margin: auto;
+    border: 1px solid silver;
+}
